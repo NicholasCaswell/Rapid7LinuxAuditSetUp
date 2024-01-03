@@ -5,4 +5,5 @@ Small shell script that can help you set up auditing per Linux Asset
 
 chmod +x R7_auditd.sh \
 ./R7_audit.sh \
-Can add more STIG/CIS rules before the necessary commands if you want to set up even more auditing. \
+
+Can add more STIG/CIS rules before the necessary commands if you want to set up even more auditing.
